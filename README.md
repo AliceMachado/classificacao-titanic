@@ -1,6 +1,8 @@
 # classificacao-titanic
 Exercício Inteligência Artificial, com o desafio do Titanic do Kaggle
 
+Para melhor visualização, utilize o modo 'Code' do arquivo README!
+
 Introdução:
 Este projeto é uma análise dos dados do Titanic disponibilizado no Kaggle. O objetivo é prever a sobrevivência dos passageiros usando um modelo de classificação k-NN.
 
