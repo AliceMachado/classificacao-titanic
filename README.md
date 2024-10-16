@@ -1,6 +1,4 @@
-Para melhor visualização, utilize o modo 'Code' do arquivo README!
-
-# classificacao-titanic
+# classificacao-titanic / Para melhor visualização, utilize o modo 'Code' do arquivo README!
 Exercício Inteligência Artificial, com o desafio do Titanic do Kaggle
 
 Introdução:
